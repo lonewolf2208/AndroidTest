@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872971384424",
+    "project_id": "androidtest-bcfcb",
+    "storage_bucket": "androidtest-bcfcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872971384424:android:eac7cacf3d66ab7a88eddd",
+        "android_client_info": {
+          "package_name": "com.example.androidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872971384424-cnlopdkmvcvq5oqs0i8u8e0d0h6g6u97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEUtfOMlZu_iXTy95HEG0XQbdkuEMuXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872971384424-cnlopdkmvcvq5oqs0i8u8e0d0h6g6u97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
